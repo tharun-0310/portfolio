@@ -110,10 +110,4 @@ npm run dev
 - **LinkedIn**: [linkedin.com/in/tharun-s](https://linkedin.com/in/tharun-s)
 - **GitHub**: [github.com/tharun-0310](https://github.com/tharun-0310)
 
-## 📄 License
-
-MIT License - Open source and available for use.
-
----
-
 Built with ❤️ by Tharun S
