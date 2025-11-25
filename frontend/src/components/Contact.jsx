@@ -24,20 +24,20 @@ const Contact = () => {
     {
       icon: '💼',
       label: 'LinkedIn',
-      value: 'linkedin.com/in/tharun-s',
-      link: 'https://linkedin.com/in/tharun-s'
+      value: 'www.linkedin.com/in/tharun-s-26912b244',
+      link: 'www.linkedin.com/in/tharun-s-26912b244'
     },
     {
       icon: '🐙',
       label: 'GitHub',
-      value: 'github.com/tharun-s',
-      link: 'https://github.com/tharun-s'
+      value: 'https://github.com/tharun-0310',
+      link: 'https://github.com/tharun-0310'
     },
     {
       icon: '📸',
       label: 'Instagram',
-      value: '@tharun_s_',
-      link: 'https://instagram.com/tharun_s_'
+      value: 'https://www.instagram.com/tharunvikram310?igsh=enhraWVnYmJ4b2Jr',
+      link: 'https://www.instagram.com/tharunvikram310?igsh=enhraWVnYmJ4b2Jr'
     }
   ];
 
